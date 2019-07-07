@@ -1,0 +1,7 @@
+tensorflow-gpu==1.12
+keras
+jupyter
+seaborn
+matplotlib
+scikit-learn
+mne
