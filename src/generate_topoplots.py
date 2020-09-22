@@ -1,4 +1,4 @@
-from src.loaders import DataLoader
+from loaders import DataLoader
 import matplotlib.pyplot as plt
 
 loader = DataLoader()
